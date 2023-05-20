@@ -11,15 +11,10 @@
 
 <div align="center">
   <a href="mailto:luciobenguejunior48@gmail.com" style="text-decoration: none;">
-    <button style="padding: 5px 10px; background-color: #DB4437; color: white; border: none; border-radius: 4px;">
-      Gmail
-    </button>
+    <img alt="Gmail Icon" height="30" width="80" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/luciobengue/" style="text-decoration: none;">
-    <button style="padding: 5px 10px; background-color: #0A66C2; color: white; border: none; border-radius: 4px;">
-      LinkedIn
-    </button>
+    <img alt="LinkedIn Icon" height="30" width="80" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>&nbsp;&nbsp;
 </div>
-
 

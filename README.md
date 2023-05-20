@@ -8,7 +8,7 @@
   <img align="center" alt="Laravel Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg">
   <img align="center" alt="JavaScript Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
 </div>
-
+#
 <div align="center">
   <a href="mailto:luciobenguejunior48@gmail.com" style="text-decoration: none;">
     <img alt="Gmail Icon" height="30" width="80" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
